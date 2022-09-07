@@ -8,4 +8,5 @@ public class unixTimeConvention {
 // this is Tuesday, February 8, 2022 10:04:56 AM GMT-05:00
 // Eastern Standard Time is GMT minus 5:00
 // conventional way of unix time conversion
+    // incorporate this into the handclock Schlage timeclock
 }
