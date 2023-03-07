@@ -9,4 +9,5 @@ public class unixTimeConvention {
 // Eastern Standard Time is GMT minus 5:00
 // conventional way of unix time conversion
     // incorporate this into the handclock Schlage timeclock
+    // compare with python class
 }
