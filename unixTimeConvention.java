@@ -10,6 +10,6 @@ public class unixTimeConvention {
 // accounts for daylight savings or standard across each region
 // conventional way of unix time conversion
     // incorporate this into the handclock Schlage timeclock
-    // compare with python class
+    // compare with python class, repository
     // use time server pool.ntp.org uses nginx
 }
