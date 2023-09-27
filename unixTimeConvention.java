@@ -12,4 +12,5 @@ public class unixTimeConvention {
     // incorporate this into the handclock Schlage timeclock
     // compare with python class, repository
     // use time server pool.ntp.org uses nginx
+    // time server consistently online
 }
