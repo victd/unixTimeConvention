@@ -11,6 +11,6 @@ public class unixTimeConvention {
 // conventional way of unix time conversion
     // incorporate this into the handclock Schlage timeclock
     // compare with python class, repository
-    // use time server pool.ntp.org uses nginx
+    // use time server pool.ntp.org uses nginx, port 123
     // time server consistently online
 }
