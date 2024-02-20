@@ -13,4 +13,5 @@ public class unixTimeConvention {
     // compare with python class, repository
     // use time server pool.ntp.org uses nginx, port 123
     // time server consistently online, synchronizes each 5 min
+    // no time divergence for 5 min
 }
